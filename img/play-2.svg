@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Button / Stroke_and_filling / Play">
+<rect x="0.5" y="0.5" width="63" height="63" rx="31.5" fill="#A5A2A2" fill-opacity="0.6"/>
+<rect x="0.5" y="0.5" width="63" height="63" rx="31.5" stroke="white"/>
+<path id="Polygon 1" d="M41 30.7679C42.3333 31.5377 42.3333 33.4623 41 34.2321L28.25 41.5933C26.9167 42.3631 25.25 41.4008 25.25 39.8612L25.25 25.1388C25.25 23.5992 26.9167 22.6369 28.25 23.4067L41 30.7679Z" fill="white"/>
+</g>
+</svg>
